@@ -1,0 +1,7 @@
+{
+	"name": "cluster-example",
+	"version": "1.6.52",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
